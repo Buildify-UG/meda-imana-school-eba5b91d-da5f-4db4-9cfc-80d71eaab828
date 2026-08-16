@@ -120,7 +120,7 @@ const Index = () => {
                   return (
                     <div
                       key={idx}
-                      className="bg-white rounded-xl shadow-sm p-6 border border-slate-200 hover:shadow-md transition-shadow"
+                      className="bg-white rounded-xl shadow-sm p-6 border border-slate-200 hover:shadow-md transition-shadow text-base font-medium text-lime-500"
                     >
                       <div className="flex items-start justify-between">
                         <div>
